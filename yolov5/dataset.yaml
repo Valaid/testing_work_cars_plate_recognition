@@ -1,0 +1,9 @@
+path: ../datasets/car_plates
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+names:
+  0: plate
+  # в последствии тут возможно увеличение количества классов с добавление классификации ведомственных машин, структру и тд
